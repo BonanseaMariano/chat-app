@@ -23,9 +23,9 @@ A real-time chat application built with Spring Boot and WebSocket that allows us
 ## Live Demo
 
 You can try the application at:
-- Frontend & Backend: [https://chat-app-spring.onrender.com](https://chat-app-spring.onrender.com)
+- [Chat-app demo](https://chat-app-pegl.onrender.com)
 
 ## Documentation
 
 The complete JavaDoc documentation is available at:
-- [Project Documentation](https://marianobonansea.github.io/chat-app/docs)
+- [Project Documentation](https://bonanseamariano.github.io/chat-app/)
