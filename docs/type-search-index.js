@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.marianobonansea.chat_app","l":"ChatAppApplication"},{"p":"com.marianobonansea.chat_app.controller","l":"ChatController"},{"p":"com.marianobonansea.chat_app.model","l":"ChatMessage"},{"p":"com.marianobonansea.chat_app.config","l":"WebSocketConfig"}];updateSearchResults();
